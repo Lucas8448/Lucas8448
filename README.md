@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Lucas8448
-- 👀 I’m interested in Programming, Gaming and photography
-- 🌱 I’m currently learning Vue.js, Javascript, and Swift/SwiftUI
-- My main programming interests are AI, Upcoming Frameworks and Databases
+- 👋 Hi, Lucas8448
+- 👀 I’m interested in Programming, Gaming and AI
+- 🌱 I’m currently learning Vue.js, Javascript, Quskit, and Azure
+- My main programming interests are AI, JS Frameworks and Quantum programming
 - Website: https://lucas8448.github.io/
+- Resume: https://lucasbateson.com/
 - Skylines: https://skyline.github.com/lucas8448/2021, https://skyline.github.com/lucas8448/2022, https://skyline.github.com/lucas8448/2023
