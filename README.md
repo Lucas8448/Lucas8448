@@ -1,6 +1,6 @@
 - 👋 Hi, Lucas8448
 - 👀 I’m interested in Programming, Gaming and AI
-- 🌱 I’m currently learning Vue.js, Javascript, Quskit, and Azure
+- 🌱 I’m currently learning Vue.js, Javascript, Qiskit, and Azure
 - My main programming interests are AI, JS Frameworks and Quantum programming
 - Website: https://lucas8448.github.io/
 - Resume: http://lucasbateson.com/
