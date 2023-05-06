@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Vue.js, Javascript, Quskit, and Azure
 - My main programming interests are AI, JS Frameworks and Quantum programming
 - Website: https://lucas8448.github.io/
-- Resume: https://lucasbateson.com/
+- Resume: http://lucasbateson.com/
 - Skylines: https://skyline.github.com/lucas8448/2021, https://skyline.github.com/lucas8448/2022, https://skyline.github.com/lucas8448/2023
