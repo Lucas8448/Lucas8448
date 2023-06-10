@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, Lucas8448<br>👀 I’m interested in Programming, Gaming and AI<br>🌱 I’m currently learning Vue.js, Javascript, Qiskit, and Azure<br>My main programming interests are Deep Learning, JS Frameworks and Quantum programming<br>Website: https://lucas8448.github.io/<br>Resume: http://lucasbateson.com/<br>Skylines: https://skyline.github.com/lucas8448/2021, https://skyline.github.com/lucas8448/2022, https://skyline.github.com/lucas8448/2023<br><br>
 
+## 📄 Certifications
+AZ-900: Azure Fundementals
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucas_bateson) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lucas8448) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17643168) 
