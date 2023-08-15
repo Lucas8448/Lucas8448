@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, Lucas8448<br>👀 I’m interested in Programming, Gaming and BS<br>🌱 I’m currently learning React, Vue.js, Javascript, Qiskit, and Azure<br>My main programming interests are Deep Learning, JS Frameworks and Quantum programming<br>Website: https://lucas8448.github.io/<br>Resume: http://lucasbateson.com/<br>Skylines: https://skyline.github.com/lucas8448/2021, https://skyline.github.com/lucas8448/2022, https://skyline.github.com/lucas8448/2023<br><br>
+👋 Hi, Lucas8448<br>👀 I’m interested in Programming, Gaming and BS<br>🌱 I’m currently learning React, Vue.js, Javascript, Qiskit, Azure, Cassandra ScyllaDB and Docker<br>My main programming interests are Deep Learning, JS Frameworks and Quantum programming<br>Website: https://lucas8448.github.io/<br>Resume: http://lucasbateson.com/<br>Skylines: https://skyline.github.com/lucas8448/2021, https://skyline.github.com/lucas8448/2022, https://skyline.github.com/lucas8448/2023<br><br>
 
 ## 📄 Certifications
 AZ-900: Azure Fundementals
