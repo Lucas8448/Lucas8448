@@ -9,9 +9,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas8448&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=lucas8448&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas8448&theme=github-dark&hide_border=true&area=true" height="150" alt="activity-graph graph"  />
+  <h3>Want to get in contact with me? <a href="https://calendar.google.com/calendar/appointments/AcZssZ2n0lVuDeRoYRSntwt_mYi_4m8tx74ftEIER74=">Book a meeting</a></h3>
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
