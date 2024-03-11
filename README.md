@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas Bateson and I'm a Software Developer, from Oslo, Norway</h2>
+<h2 align="left">Hi 👋! My name is Lucas Bateson and I'm a Computer Science student, from Oslo</h2>
 
 ###
 
@@ -59,17 +59,17 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCVeoOjD41qhogZehTaTYpZA" target="_blank">
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCVeoOjD41qhogZehTaTYpZA" target="_blank" style="hidden:true">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/lucas_bateson/" target="_blank">
+  <a href="https://www.instagram.com/lucas_bateson/" target="_blank" style="hidden:true">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-bateson-5631bb270/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-bateson-5631bb270/" target="_blank" style="hidden:true">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/17643168/lucas" target="_blank">
+  <a href="https://stackoverflow.com/users/17643168/lucas" target="_blank" style="hidden:true">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
