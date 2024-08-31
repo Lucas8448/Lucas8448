@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a Computer Science student, from Oslo 🇳🇴</h2>
+<h2 align="left">Hi 👋! My name is Lucas and I'm a Software Developer, from Oslo 🇳🇴</h2>
 
 ###
 
