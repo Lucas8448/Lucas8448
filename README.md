@@ -5,4 +5,4 @@
 - ⚡ Speaker @ JavaZone • 7th place @ Meta LLaMA Hackathon
 - 🛠️ 200+ repos
 
-[![committers.top badge](https://user-badge.committers.top/norway/USERNAME.svg)](https://user-badge.committers.top/norway/Lucas8448)
+[![committers.top badge](https://user-badge.committers.top/norway/Lucas8448.svg)](https://user-badge.committers.top/norway/Lucas8448)
