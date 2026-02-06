@@ -8,3 +8,5 @@ Deterministic systems software for simulation, estimation, and control.
 - N-body Simulator — numerical integration experiments
 - Neural-nets — from-scratch numerical models
 - Oxidize — performance and data-structure experiments with Voxel-game
+
+[![committers.top badge](https://user-badge.committers.top/norway/Lucas8448.svg)](https://user-badge.committers.top/norway/Lucas8448)
