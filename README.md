@@ -10,3 +10,4 @@ Deterministic systems software for simulation, estimation, and control.
 - Oxidize — performance and data-structure experiments with Voxel-game
 
 [![committers.top badge](https://user-badge.committers.top/norway/Lucas8448.svg)](https://user-badge.committers.top/norway/Lucas8448)
+[![committers.top badge](https://user-badge.committers.top/norway_public/Lucas8448.svg)](https://user-badge.committers.top/norway_public/Lucas8448)
