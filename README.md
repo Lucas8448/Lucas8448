@@ -1,7 +1,5 @@
 # Lucas Bateson
 
-Deterministic systems software for simulation, estimation, and control.
-
 ## Systems
 - Deadreckon — guidance and interception simulation
 - Foundry — self-hosted CI/CD for reproducible execution
