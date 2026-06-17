@@ -1,6 +1,7 @@
 # Lucas Bateson
 
 ## Systems
+- Fagprøve Monorepo - The app i spent one week programming for my final exam of my vocational studies
 - Deadreckon — guidance and interception simulation
 - Foundry — self-hosted CI/CD for reproducible execution
 - Neural-nets — from-scratch numerical models
