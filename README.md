@@ -10,7 +10,7 @@ Incoming Data Engineering (Sivilingeniør) @ NTNU 🚀
 
 ---
 
-I'm a Norwegian developer who likes problems where **math meets metal**: guidance & state estimation, numerical physics simulation, and bare-metal systems programming. I code primarily in **Rust** for anything performance- or safety-critical, **Python** for ML/data, and **TypeScript/Kotlin** for product work.
+I'm a Norwegian developer who likes problems where **math meets metal**: guidance & state estimation, numerical physics simulation, and bare-metal systems programming. I code primarily in **Rust** for anything performance- or safety-critical, and **TypeScript/Kotlin** for product work.
 
 Currently focused on flight software & avionics — trajectory simulation, sensor fusion, and embedded control.
 
@@ -19,7 +19,6 @@ Currently focused on flight software & avionics — trajectory simulation, senso
 | Domain | Tools |
 | --- | --- |
 | Systems & simulation | Rust, `no_std`, UEFI, QEMU, numerical methods |
-| ML / data | Python, PyTorch, data engineering pipelines |
 | Web & product | TypeScript, React, Kotlin/Ktor, Cloudflare |
 | Infra | Git, CI/CD, self-hosting, macOS/Unix |
 
@@ -34,15 +33,9 @@ Currently focused on flight software & avionics — trajectory simulation, senso
 | [`2d-heat-diffusion`](https://github.com/Lucas8448/2d-heat-diffusion) | Real-time 2D heat-equation solver visualized on steel | Rust |
 | [`OpenWebAI`](https://github.com/Lucas8448/OpenWebAI) | Bring-your-own-key inference gateway across LLM providers | TypeScript |
 
-### 📫 Elsewhere
-
-- 📝 I write about local LLM workflows, devops, and aerospace tech
-- 🏋️ When I'm not coding: strength training, Formula 1, and everything SpaceX
-
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-systems-orange?logo=rust)
-![Python](https://img.shields.io/badge/Python-ML%2Fdata-blue?logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-product-3178c6?logo=typescript)
 
 [![committers.top](https://user-badge.committers.top/norway_public/Lucas8448.svg)](https://user-badge.committers.top/norway_public/Lucas8448)
