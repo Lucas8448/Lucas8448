@@ -4,7 +4,7 @@
 
 **Systems & simulation engineer in the making** — building physics engines, flight software, and low-level Rust systems.
 
-Incoming Data Engineering (Sivilingeniør) @ NTNU · aiming for [Propulse NTNU](https://www.propulse.no/) 🚀
+Incoming Data Engineering (Sivilingeniør) @ NTNU 🚀
 
 </div>
 
@@ -12,7 +12,7 @@ Incoming Data Engineering (Sivilingeniør) @ NTNU · aiming for [Propulse NTNU](
 
 I'm a Norwegian developer who likes problems where **math meets metal**: guidance & state estimation, numerical physics simulation, and bare-metal systems programming. I code primarily in **Rust** for anything performance- or safety-critical, **Python** for ML/data, and **TypeScript/Kotlin** for product work.
 
-Currently leveling up toward flight software & avionics — trajectory simulation, sensor fusion, and embedded control — with the long-term goal of building rockets with Propulse NTNU.
+Currently focused on flight software & avionics — trajectory simulation, sensor fusion, and embedded control.
 
 ### 🛠️ Stack
 
