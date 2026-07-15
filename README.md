@@ -1,43 +1,26 @@
-<div align="center">
-
 # Lucas Bateson
 
-**Systems & simulation engineer in the making** — building physics engines, flight software, and low-level Rust systems.
+**Software for understanding systems.** I build simulation, infrastructure, and low-level systems software in Rust and TypeScript, with production work at NAV IT and a bias toward correctness, accessibility, and maintainability.
 
-Incoming Data Engineering (Sivilingeniør) @ NTNU 🚀
+[l3s.me](https://l3s.me) · [notes](https://notes.l3s.me) · [LinkedIn](https://www.linkedin.com/in/lucas-bateson/) · [email](mailto:lucas.bateson@gmail.com)
 
-</div>
+## Featured work
 
----
-
-I'm a Norwegian developer who likes problems where **math meets metal**: guidance & state estimation, numerical physics simulation, and bare-metal systems programming. I code primarily in **Rust** for anything performance- or safety-critical, and **TypeScript/Kotlin** for product work.
-
-Currently focused on flight software & avionics — trajectory simulation, sensor fusion, and embedded control.
-
-### 🛠️ Stack
-
-| Domain | Tools |
+| Project | Signal |
 | --- | --- |
-| Systems & simulation | Rust, `no_std`, UEFI, QEMU, numerical methods |
-| Web & product | TypeScript, React, Kotlin/Ktor, Cloudflare |
-| Infra | Git, CI/CD, self-hosting, macOS/Unix |
+| [`deadreckon`](https://github.com/Lucas8448/deadreckon) | Guidance and dead-reckoning simulation under imperfect state information. |
+| [`propagator`](https://github.com/Lucas8448/propagator) | Composable physical state propagation with numerical integration, forces, and environment modeling. |
+| [`oxidize`](https://github.com/Lucas8448/oxidize) | Real-time voxel rendering performance study with chunked worlds and dynamic meshing. |
+| [`2d-heat-diffusion`](https://github.com/Lucas8448/2d-heat-diffusion) | Interactive Rust heat-equation solver with steel-color visualization. |
+| [`yggdrasil`](https://github.com/Lucas8448/yggdrasil) | `no_std` UEFI hobby OS that boots in QEMU. |
+| [`sandbox`](https://github.com/Lucas8448/sandbox) | Small systems and simulation experiments. |
 
-### 🚀 Featured projects
+## What I work on
 
-| Project | What it is | Lang |
-| --- | --- | --- |
-| [`deadreckon`](https://github.com/Lucas8448/deadreckon) | Deterministic missile guidance & interception simulation under imperfect state information | Rust |
-| [`propagator`](https://github.com/Lucas8448/propagator) | Deterministic state propagation & environment modeling for physical systems | Rust |
-| [`N-body-simulator`](https://github.com/Lucas8448/N-body-simulator) | Newtonian gravity sim of stars & planets | Rust |
-| [`yggdrasil`](https://github.com/Lucas8448/yggdrasil) | A `no_std` UEFI hobby operating system that boots in QEMU | Rust |
-| [`2d-heat-diffusion`](https://github.com/Lucas8448/2d-heat-diffusion) | Real-time 2D heat-equation solver visualized on steel | Rust |
-| [`OpenWebAI`](https://github.com/Lucas8448/OpenWebAI) | Bring-your-own-key inference gateway across LLM providers | TypeScript |
+| Area | Tools |
+| --- | --- |
+| Simulation | Rust, numerical methods, RK4, physics modeling, state estimation |
+| Systems | `no_std`, UEFI, QEMU, Linux/macOS, performance profiling |
+| Product infrastructure | TypeScript, React, Kotlin/Ktor, Cloudflare, CI/CD, self-hosting |
 
-<div align="center">
-
-![Rust](https://img.shields.io/badge/Rust-systems-orange?logo=rust)
-![TypeScript](https://img.shields.io/badge/TypeScript-product-3178c6?logo=typescript)
-
-[![committers.top](https://user-badge.committers.top/norway_public/Lucas8448.svg)](https://user-badge.committers.top/norway_public/Lucas8448)
-
-</div>
+More project notes live at [notes.l3s.me](https://notes.l3s.me), including Rust physics simulation, heat diffusion, self-hosted deployment, and from-scratch ML notes.
