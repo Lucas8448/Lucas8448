@@ -14,13 +14,3 @@
 | [`2d-heat-diffusion`](https://github.com/Lucas8448/2d-heat-diffusion) | Interactive Rust heat-equation solver with steel-color visualization. |
 | [`yggdrasil`](https://github.com/Lucas8448/yggdrasil) | `no_std` UEFI hobby OS that boots in QEMU. |
 | [`sandbox`](https://github.com/Lucas8448/sandbox) | Small systems and simulation experiments. |
-
-## What I work on
-
-| Area | Tools |
-| --- | --- |
-| Simulation | Rust, numerical methods, RK4, physics modeling, state estimation |
-| Systems | `no_std`, UEFI, QEMU, Linux/macOS, performance profiling |
-| Product infrastructure | TypeScript, React, Kotlin/Ktor, Cloudflare, CI/CD, self-hosting |
-
-More project notes live at [notes.l3s.me](https://notes.l3s.me), including Rust physics simulation, heat diffusion, self-hosted deployment, and from-scratch ML notes.
