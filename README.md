@@ -1,6 +1,6 @@
 # Lucas Bateson
 
-**Software for understanding systems.** I build simulation, infrastructure, and low-level systems software in Rust and TypeScript, with production work at NAV IT and a bias toward correctness, accessibility, and maintainability.
+**Software for understanding systems.** I build simulation, infrastructure, and low-level systems software in Rust and TypeScript, with production work at NAV IT.
 
 [l3s.me](https://l3s.me) · [notes](https://notes.l3s.me) · [LinkedIn](https://www.linkedin.com/in/lucas-bateson/) · [email](mailto:lucas.bateson@gmail.com)
 
